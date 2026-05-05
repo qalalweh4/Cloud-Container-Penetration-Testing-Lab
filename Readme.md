@@ -1,4 +1,5 @@
-<img width="734" height="606" alt="Screenshot 2026-03-05 084224" src="https://github.com/user-attachments/assets/2a89369c-fc9f-4c6f-ad8c-8c7d936da16d" />
+
+
 
 # Cloud & Container Penetration Testing Lab — Full Walkthrough
 
