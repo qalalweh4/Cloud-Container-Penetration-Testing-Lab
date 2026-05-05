@@ -14,6 +14,7 @@
 
 <img width="734" height="606" alt="Screenshot 2026-03-05 084224" src="https://github.com/user-attachments/assets/2a89369c-fc9f-4c6f-ad8c-8c7d936da16d" />
 
+
 This lab simulates a realistic cloud-hosted Kubernetes environment that was intentionally misconfigured to reflect vulnerabilities commonly found in real enterprise deployments. The penetration test follows a full kill chain across four attack surfaces:
 
 1. Unauthenticated Kubernetes API server access
@@ -28,6 +29,10 @@ Each phase maps directly to MITRE ATT&CK for Containers and the broader Enterpri
 ## Lab Environment Setup
 
 Before attacking, the lab was built with deliberate misconfigurations:
+
+
+<img width="2560" height="1440" alt="9e414b69e1d572063819c92abe7735c9f0c4554c" src="https://github.com/user-attachments/assets/c7afd551-fc57-4cb0-b117-2f579ea2fdfc" />
+
 
 | Component | Misconfiguration Introduced |
 |---|---|
